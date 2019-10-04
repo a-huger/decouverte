@@ -1,3 +1,4 @@
 age = 12
-age_auto = age+10
-print (age_auto)
+age_autorise = age+10
+print (age_autorise)
+age_interdit = age-5
